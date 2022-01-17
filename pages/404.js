@@ -17,6 +17,7 @@ export default function NotFoundPage() {
 				<h2 className="text-4xl text-gray-400">
 					This Page Does Not Exist.
 				</h2>
+				<Link href="/">Go Home</Link>
 			</div>
 		</Layout>
 	)
